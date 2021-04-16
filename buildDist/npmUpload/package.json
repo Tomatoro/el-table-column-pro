@@ -1,0 +1,7 @@
+{
+  "name": "el-table-extend",
+  "version": "1.0.11",
+  "description": "element table 扩展功能 element-ui：2.12.0  vue：2.5.2",
+  "author": "ybf",
+  "main": "./src/element.elTablePro.common.js"
+}
